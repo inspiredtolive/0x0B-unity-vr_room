@@ -5,11 +5,7 @@
     ],
     "includePlatforms": [],
     "excludePlatforms": [
-        "Android",
-        "iOS",
-        "macOSStandalone",
-        "WindowsStandalone32",
-        "WindowsStandalone64"
+        "Android"
     ],
     "allowUnsafeCode": false,
     "overrideReferences": false,
