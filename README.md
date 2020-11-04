@@ -2,7 +2,7 @@
 
 A simple “escape room”-style VR game.
 
-# Motivation
+## Motivation
 
 To learn:
 * What are the different types of locomotion / movement in VR
@@ -11,24 +11,24 @@ To learn:
 * How to implement a teleportation method of movement in VR
 * How to implement interactive objects in VR
 
-# Screenshots
+## Screenshots
 ![A door inside a room](https://i.imgur.com/7vXhcdA.jpg)
 
-# Tech/framework used
+## Tech/framework used
 
 Built with
 
 * Unity Version 2019.4.7f1
 * SteamVR
 
-# Features
+## Features
 
 * Teleportating Locomotion
 * Supports 6DOF
 * Interactable objects
 * Script interactions
 
-# Requirements
+## Requirements
 
 For Development
 
@@ -47,10 +47,10 @@ To Play
   * Tracked Motion Controllers
 
 
-# Development Setup
+## Development Setup
 Open the project with Unity 2019 and build for your target platform.
 
 
-# License
+## License
 
 Licensed under [MIT](LICENSE)
