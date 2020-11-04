@@ -1,6 +1,9 @@
 # Unity - VR Room
 
-A simple “escape room”-style VR game.
+VR Room is a simple “escape room”-style VR game created in Unity 2019.4.7f1. It features interactable objects, scripted interactions, teleporting locomotion and supports 6DOF.
+
+Authors
+* Marco Chan [LinkedIn](https://www.linkedin.com/in/inspiredtolive)
 
 ## Motivation
 
